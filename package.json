@@ -1,0 +1,12 @@
+{
+  "name": "greet",
+  "version": "1.0.0",
+  "description": "greeting user name",
+  "main": "index.js",
+  "scripts": {
+    "test": "start",
+    "start":"index.js"
+  },
+  "author": "rohit",
+  "license": "ISC"
+}
